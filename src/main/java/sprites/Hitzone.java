@@ -39,14 +39,12 @@ public class Hitzone extends Sprite
     /**
      * This function will do nothing
      * @param field ---
-     * @param amount ---
      */
     @Override
     public void insert(Pane field) {}
     
     /**
      * This function will do nothing
-     * @param ref ---
      * @param sprites ---
      * @param field ---
      */
